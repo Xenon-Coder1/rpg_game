@@ -1,0 +1,1 @@
+# Weapons, potions, loot definitions
